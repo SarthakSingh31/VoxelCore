@@ -1,0 +1,10 @@
+^C:\USERS\SARTHAK\DOCUMENTS\VOXELCORE\BUILD\CMAKEFILES\ED49263B0483F6CF7B4BAD077909433A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Sarthak/Documents/VoxelCore -BC:/Users/Sarthak/Documents/VoxelCore/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Sarthak/Documents/VoxelCore/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

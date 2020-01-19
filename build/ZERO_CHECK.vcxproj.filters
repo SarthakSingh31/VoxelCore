@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sarthak\Documents\VoxelCore\build\CMakeFiles\ed49263b0483f6cf7b4bad077909433a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FEB7B9B7-174E-329E-A589-C4BC8FB8F790}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
